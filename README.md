@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Ishannjain
-- 👀 I’m interested in Coding,Technology,Sports.
-- 🌱 I’m currently learning Artificial Intelligence using Python,Data Structure and Algorithm using Java
-- 💞️ I’m looking to collaborate on Projects,Research
-- 📫 How to reach me through my linkedln profile (https://www.linkedin.com/in/ishan-jain-6a719328a/)
-- 😄 Pronouns: He/Him
+# 👋 Hi there, I'm Ishan Jain! (He/Him)
 
+## 👀 About Me
+- 🎯 Passionate about **Coding**, **Technology**, and **Sports**
+- 🌱 Currently learning **Artificial Intelligence (Python)** & **Data Structures and Algorithms (Java)**
+- 🤝 Looking to collaborate on **Projects** and **Research Work**
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📈 GitHub Stats
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishannjain&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishannjain&layout=compact&theme=tokyonight)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-jain-6a719328a/)
 
 <!---
 Ishannjain/Ishannjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
