@@ -16,7 +16,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/fresh_fleck_62)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jainishcbko/)
 
-> Replace the links above with your actual profile URLs!
 
 ## 📈 GitHub Stats
 ![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishannjain&show_icons=true&theme=tokyonight)
